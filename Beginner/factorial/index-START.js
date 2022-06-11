@@ -14,7 +14,6 @@ the provided integer(n). E.g
 // factorials multipied by 1
 // i = assignment operator
 
-
 function factorial(n) {
     // declare variable for x
    let x = 1
